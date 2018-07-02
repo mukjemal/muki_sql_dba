@@ -1,1 +1,1 @@
-*This repository is used for sql development*
+*This repository is used for sql dba*
